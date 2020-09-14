@@ -1,8 +1,5 @@
 # WordTime
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have recreated a few screens of our famous flipkart or amazon Starter Kit in Flutter.
-THe application that consists different types of Item like t-shirt, phones, cosmetics, etc.
-
-A flutter app that helps you to check out the time zone of different region like New York, Kolkata , London,etc
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. <p>I have created a flutter app that helps you to check out the time zone of different region like New York, Kolkata , London,etc, even the app changes its background according to a region sunrise and sunset.</p>
 
 ## Demo ##
 
